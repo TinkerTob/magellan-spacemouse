@@ -22,7 +22,7 @@ Make the following connections between the Pico and the serial adapter:
 | GPIO26 (pin 31) | RTS |
 | GPIO27 (pin 32) | CTS |
 
-Flash the Pico with the [magellan.uf2](magellan.uf2) firmware the usual way: hold the BOOTSEL button while connecting the board to the computer, then copy the UF2 file to the USB drive that shows up.
+Flash the Pico with the [magellan.uf2](magellan.uf2?raw=true) firmware the usual way: hold the BOOTSEL button while connecting the board to the computer, then copy the UF2 file to the USB drive that shows up.
 
 Install 3DxWare on your computer and enjoy.
 
